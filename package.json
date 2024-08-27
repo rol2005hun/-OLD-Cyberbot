@@ -1,0 +1,36 @@
+{
+  "name": "cyberbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "@discordjs/uws": "^10.149.0",
+    "ascii-table": "0.0.9",
+    "canvacord": "^3.0.9",
+    "canvas": "^2.6.1",
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^12.2.0",
+    "dotenv-flow": "^3.2.0",
+    "ffmpeg-static": "^4.2.7",
+    "figlet": "^1.5.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "index.js": "0.0.3",
+    "jimp": "^0.14.0",
+    "mathjs": "^7.1.0",
+    "novelcovid": "^1.2.7",
+    "opusscript": "0.0.7",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.1",
+    "simple-youtube-api": "^5.2.1",
+    "util": "^0.12.3",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^3.1.2"
+  }
+}
